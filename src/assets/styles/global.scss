@@ -1,0 +1,56 @@
+body {
+  background: #f5f5f5;
+}
+
+/*
+======================================
+ALIGNMENT
+======================================
+*/
+
+.k-center {
+  text-align: center;
+}
+
+/*
+======================================
+CUSTOM STYLES
+======================================
+*/
+.k-fs_base{
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+/*
+======================================
+CUSTOM STYLES
+======================================
+*/
+.k-header {
+  font-weight: 500;
+  font-size: 3.2rem;
+}
+
+.k-bg-link {
+  background: #f5faff;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+.k-bg-primary {
+  background: #2a2a8f;
+}
+.k-bg-secondary {
+  background: #4780f8;
+}
+
+.k-color-secondary {
+  color: #0d3693;
+}
+
+.k-colour__error{
+    color: red;
+    opacity: 0.5;
+}
+
